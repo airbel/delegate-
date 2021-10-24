@@ -1,0 +1,36 @@
+D:\win10Data\text\Visual Studio 2017\Projects\WinFormsApp2_2\obj\Debug\net5.0-windows\WinFormsApp2_2.csproj.AssemblyReference.cache
+D:\win10Data\text\Visual Studio 2017\Projects\WinFormsApp2_2\obj\Debug\net5.0-windows\WinFormsApp2_2.Form1.resources
+D:\win10Data\text\Visual Studio 2017\Projects\WinFormsApp2_2\obj\Debug\net5.0-windows\WinFormsApp2_2.csproj.GenerateResource.cache
+D:\win10Data\text\Visual Studio 2017\Projects\WinFormsApp2_2\obj\Debug\net5.0-windows\WinFormsApp2_2.GeneratedMSBuildEditorConfig.editorconfig
+D:\win10Data\text\Visual Studio 2017\Projects\WinFormsApp2_2\obj\Debug\net5.0-windows\WinFormsApp2_2.AssemblyInfoInputs.cache
+D:\win10Data\text\Visual Studio 2017\Projects\WinFormsApp2_2\obj\Debug\net5.0-windows\WinFormsApp2_2.AssemblyInfo.cs
+D:\win10Data\text\Visual Studio 2017\Projects\WinFormsApp2_2\obj\Debug\net5.0-windows\WinFormsApp2_2.csproj.CoreCompileInputs.cache
+D:\win10Data\text\Visual Studio 2017\Projects\WinFormsApp2_2\bin\Debug\net5.0-windows\WinFormsApp2_2.exe
+D:\win10Data\text\Visual Studio 2017\Projects\WinFormsApp2_2\bin\Debug\net5.0-windows\WinFormsApp2_2.deps.json
+D:\win10Data\text\Visual Studio 2017\Projects\WinFormsApp2_2\bin\Debug\net5.0-windows\WinFormsApp2_2.runtimeconfig.json
+D:\win10Data\text\Visual Studio 2017\Projects\WinFormsApp2_2\bin\Debug\net5.0-windows\WinFormsApp2_2.runtimeconfig.dev.json
+D:\win10Data\text\Visual Studio 2017\Projects\WinFormsApp2_2\bin\Debug\net5.0-windows\WinFormsApp2_2.dll
+D:\win10Data\text\Visual Studio 2017\Projects\WinFormsApp2_2\bin\Debug\net5.0-windows\ref\WinFormsApp2_2.dll
+D:\win10Data\text\Visual Studio 2017\Projects\WinFormsApp2_2\bin\Debug\net5.0-windows\WinFormsApp2_2.pdb
+D:\win10Data\text\Visual Studio 2017\Projects\WinFormsApp2_2\obj\Debug\net5.0-windows\WinFormsApp2_2.dll
+D:\win10Data\text\Visual Studio 2017\Projects\WinFormsApp2_2\obj\Debug\net5.0-windows\ref\WinFormsApp2_2.dll
+D:\win10Data\text\Visual Studio 2017\Projects\WinFormsApp2_2\obj\Debug\net5.0-windows\WinFormsApp2_2.pdb
+D:\win10Data\text\Visual Studio 2017\Projects\WinFormsApp2_2\obj\Debug\net5.0-windows\WinFormsApp2_2.genruntimeconfig.cache
+D:\win10Data\text\Github\VS-delegate\WinFormsApp2_2\bin\Debug\net5.0-windows\WinFormsApp2_2.exe
+D:\win10Data\text\Github\VS-delegate\WinFormsApp2_2\bin\Debug\net5.0-windows\WinFormsApp2_2.deps.json
+D:\win10Data\text\Github\VS-delegate\WinFormsApp2_2\bin\Debug\net5.0-windows\WinFormsApp2_2.runtimeconfig.json
+D:\win10Data\text\Github\VS-delegate\WinFormsApp2_2\bin\Debug\net5.0-windows\WinFormsApp2_2.runtimeconfig.dev.json
+D:\win10Data\text\Github\VS-delegate\WinFormsApp2_2\bin\Debug\net5.0-windows\WinFormsApp2_2.dll
+D:\win10Data\text\Github\VS-delegate\WinFormsApp2_2\bin\Debug\net5.0-windows\ref\WinFormsApp2_2.dll
+D:\win10Data\text\Github\VS-delegate\WinFormsApp2_2\bin\Debug\net5.0-windows\WinFormsApp2_2.pdb
+D:\win10Data\text\Github\VS-delegate\WinFormsApp2_2\obj\Debug\net5.0-windows\WinFormsApp2_2.csproj.AssemblyReference.cache
+D:\win10Data\text\Github\VS-delegate\WinFormsApp2_2\obj\Debug\net5.0-windows\WinFormsApp2_2.Form1.resources
+D:\win10Data\text\Github\VS-delegate\WinFormsApp2_2\obj\Debug\net5.0-windows\WinFormsApp2_2.csproj.GenerateResource.cache
+D:\win10Data\text\Github\VS-delegate\WinFormsApp2_2\obj\Debug\net5.0-windows\WinFormsApp2_2.GeneratedMSBuildEditorConfig.editorconfig
+D:\win10Data\text\Github\VS-delegate\WinFormsApp2_2\obj\Debug\net5.0-windows\WinFormsApp2_2.AssemblyInfoInputs.cache
+D:\win10Data\text\Github\VS-delegate\WinFormsApp2_2\obj\Debug\net5.0-windows\WinFormsApp2_2.AssemblyInfo.cs
+D:\win10Data\text\Github\VS-delegate\WinFormsApp2_2\obj\Debug\net5.0-windows\WinFormsApp2_2.csproj.CoreCompileInputs.cache
+D:\win10Data\text\Github\VS-delegate\WinFormsApp2_2\obj\Debug\net5.0-windows\WinFormsApp2_2.dll
+D:\win10Data\text\Github\VS-delegate\WinFormsApp2_2\obj\Debug\net5.0-windows\ref\WinFormsApp2_2.dll
+D:\win10Data\text\Github\VS-delegate\WinFormsApp2_2\obj\Debug\net5.0-windows\WinFormsApp2_2.pdb
+D:\win10Data\text\Github\VS-delegate\WinFormsApp2_2\obj\Debug\net5.0-windows\WinFormsApp2_2.genruntimeconfig.cache
